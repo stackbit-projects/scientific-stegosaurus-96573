@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: This is the one to take you there
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### There is no other coin like it!
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
