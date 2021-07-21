@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: This is the one to take you there
+    title: This is the one
     subtitle: |
       ### There is no other coin like it!
     image: images/avatar.png
